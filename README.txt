@@ -1,4 +1,4 @@
-Se Export-ExO.pptx for description and usage.
+See Export-ExO.pptx for description and usage.
 
 Remove ".TXT" file name extension from files with a nested extensions.  For example rename BATCH.CMD.TXT to BATCH.CMD or SCRIPT.PS1.TXT to SCRIPT.PS1.
 
